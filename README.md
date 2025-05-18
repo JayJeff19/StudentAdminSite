@@ -34,6 +34,20 @@ Please see "StudentAdminSite - Data Entry", "StudentAdminSite - Data Modificatio
 
 
 
+
+https://github.com/user-attachments/assets/d627b7cf-cae7-4fd5-a1e3-b5cfca38f763
+
+
+
+https://github.com/user-attachments/assets/41670001-2617-4224-8964-09a1c5c9ebfc
+
+
+
+https://github.com/user-attachments/assets/177174aa-8d42-425d-bf8d-a724ac1fe42b
+
+
+
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
