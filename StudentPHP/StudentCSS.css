@@ -1,0 +1,73 @@
+body {
+	background-color: #ffd580;
+	border: 0cm solid transparent;
+	padding: 0cm;
+	margin: 0cm;
+}
+H1 {
+	color : rgba(255, 0, 0, 0.671);
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 24px;
+	font-weight : bold;
+	text-decoration : none;
+	text-align : center;
+}
+H2 {
+	color : #693201;
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 16px;
+	font-weight : bold;
+	text-decoration : none;
+	text-align : center;
+}
+header{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/logo-2-2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+	height: 44%;
+	width: 100%;
+    position: relative;
+    color:white;
+    text-align: center;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+    padding-bottom: 0px;
+	margin: 0 cm;
+	border: 0 cm;
+	background-position: center;
+}
+#headername{
+    font-size: 30pt;
+    padding-top:13.5%;
+}
+.titlehead{
+	color : #726455;
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 24px;
+	font-weight : bold;
+	text-decoration : none;
+	text-align : center;
+}
+.text {
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	font-size : 14px;
+	font-weight : none;
+	color: #693201;
+}
+.menubutton{
+	background-color: orange;
+    padding: 0.2cm;
+    font-weight: bolder;
+	border-radius: 12px;
+}
+.display{
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+.instruct{
+	font-family : Arial, Century Gothic, Verdana, Tahoma, Helvetica, sans-serif;
+	color:red;
+	font-size: 15pt;
+	text-align: center;
+}
