@@ -30,9 +30,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/aFlHWqL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Please see "StudentAdminSite - Data Entry", "StudentAdminSite - Data Modification" and "StudentAdminSite - Data Search" for a walkthrough of implemented user stories.
 
 
 
